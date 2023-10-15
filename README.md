@@ -1,2 +1,2 @@
 # projeto01-melhorias
-modelo de testes para uma apicação laravel e migração de sua versão 
+modelo de testes para uma aplicação laravel e migração de sua versão, a ideia será atualizar todos os plugins 
